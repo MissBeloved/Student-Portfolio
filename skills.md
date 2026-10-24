@@ -21,4 +21,5 @@ Replace these examples with skills you can confidently discuss in an interview.
 ## Skills to Improve
 - Data Structures and Algorithms
 - SQL and database fundamentals
-- Testing and debugging
+- Linux
+- Pentesting

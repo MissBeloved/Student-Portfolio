@@ -14,5 +14,7 @@
 - Software Engineering
 
 ## Achievements and Certifications
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.
+- Verified HTML and CSS certification issued by certiport
+- Particpated in SIH internal hackthon 2026
+- Particpated in Amazon ML challenge 2026
+- Particpated as coordinator in SIH internal Hackthon
